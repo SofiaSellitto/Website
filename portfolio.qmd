@@ -1,0 +1,7 @@
+---
+title: "Portfolio"
+---
+
+Some of my data science projects include:
+
+\[victimization rates\](https://github.com/SofiaSellitto/Paper-1.git)

@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sofia Sellitto Website",
+    "section": "",
+    "text": "Welcome to my website!\nI am an"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Some of my data science projects include:\n[Victimization Rates](https://github.com/SofiaSellitto/Paper-1.git)"
+  }
+]
